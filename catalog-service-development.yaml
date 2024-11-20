@@ -1,2 +1,2 @@
 demo:
-  baseUri: development
+  block: true
